@@ -77,3 +77,7 @@ outputs:
     description: Web server external endpoint
     value: { concat: ['http://', { get_property: [ vm, ip ] },
                       ':', { get_property: [http_web_server, port] }] }
+nguyen
+van 
+nhu 
+cuong
